@@ -1,0 +1,11 @@
+.sun{
+    display: none;
+}
+
+#toggledark.active .moon{
+    display: none;
+}
+
+#toggledark.active .sun{
+    display: block;
+}
